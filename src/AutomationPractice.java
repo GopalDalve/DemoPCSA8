@@ -7,6 +7,7 @@ public class AutomationPractice
 		System.setProperty("webdriver.chrome.driver", "./software/chromedriver.exe");
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("http://automationpractice.com/");
+		// Good work
 
 		
 		
