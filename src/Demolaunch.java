@@ -7,6 +7,7 @@ public class Demolaunch
 		System.setProperty("webdriver.chrome.driver", "./software/chromedriver.exe");
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("https://www.amazon.in");
+		System.out.println("fsdfsf");
 		
 	}
 
